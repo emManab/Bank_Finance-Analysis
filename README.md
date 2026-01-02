@@ -1,4 +1,4 @@
-Bank_Finance-Analysis
+#Bank_Finance-Analysis
 📌 Overview
 This project provides a Bank Loan Report using Python, Power BI, and CSV data. It includes analysis and interactive dashboards to track loan applications, funded amounts, repayments, interest rates, and borrower profiles. The report highlights Good vs Bad Loan KPIs, monthly trends, regional analysis, loan purpose breakdowns, and borrower demographics to support data-driven decision-making.
 
